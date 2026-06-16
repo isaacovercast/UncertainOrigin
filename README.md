@@ -28,7 +28,8 @@ https://www.etymonline.com/word/witch
 
 https://www.etymonline.com/word/punnet
 
-https://en.wikipedia.org/wiki/Wyrd
+https://www.etymonline.com/word/weird
+* See also: https://en.wikipedia.org/wiki/Wyrd
 
 https://www.etymonline.com/word/hanker
 
