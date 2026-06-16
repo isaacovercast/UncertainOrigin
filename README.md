@@ -1,4 +1,4 @@
-[Art: "https://www.etymonline.com/search?q=art"](https://www.etymonline.com/search?q=art)
+[Art etymology](https://www.etymonline.com/search?q=art)
 
 ## [Etymonline: Words_with_unknown_origins](https://en.m.wiktionary.org/wiki/Category:English_terms_with_unknown_etymologies)
 
