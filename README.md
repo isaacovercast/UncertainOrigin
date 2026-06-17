@@ -1,6 +1,9 @@
 [Art etymology](https://www.etymonline.com/search?q=art)
 
-## [Etymonline: Words_with_unknown_origins](https://en.m.wiktionary.org/wiki/Category:English_terms_with_unknown_etymologies)
+## [Etymonline: Words_with_unknown_origins]
+(https://en.m.wiktionary.org/wiki/Category:English_terms_with_unknown_etymologies)
+
+https://www.etymonline.com/word/scooch
 
 https://www.etymonline.com/word/zymurgy#etymonline_v_5055
 
