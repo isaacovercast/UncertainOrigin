@@ -114,3 +114,5 @@ https://www.etymonline.com/word/zit
 https://www.etymonline.com/word/pimple
 
 https://www.etymonline.com/word/OK
+
+https://www.etymonline.com/word/tarnation
