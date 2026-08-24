@@ -2,6 +2,8 @@
 
 ## [Etymonline: Words_with_unknown_origins](https://en.m.wiktionary.org/wiki/Category:English_terms_with_unknown_etymologies)
 
+https://www.etymonline.com/word/flabbergast
+
 https://www.etymonline.com/word/ponce
 
 https://www.etymonline.com/word/flabbergasted
